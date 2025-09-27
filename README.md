@@ -1,3 +1,7 @@
+TRABALHO API - BANCO DE DADOS
+
+ALUNO: LUCAS ARAUJO RAMOS
+
 #### Instale as dependências
 ```bash
 npm install
